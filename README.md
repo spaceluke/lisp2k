@@ -11,3 +11,10 @@ Writing a Lisp is a good exercice to practice programming in a language such as 
 
 Lisp2k was born from the idea of T2000 in the Terminator Series .
 
+##HOW TO COMPILE:
+SO YEAH AFTER SPENDING 2 HOURS IN THE ABYSS OF GNU MAKE MANUAL AND STUFF ...
+just type this into the terminal :
+cc -std=c99 -Wall lisp2k.c mpc.c -ledit -lm -o lisp2k
+
+HAVE FUN HACKING .
+
